@@ -9,7 +9,7 @@ class Solution {
            
             for(int y=0; y<n; y++)
             {
-                 answer = answer+my_string.charAt(i);
+                 answer+=my_string.charAt(i);
             }
             
         }
